@@ -4,11 +4,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yvngfenriz&show_icons=true&theme=tokyonight) 
 
 <div style="display: inline_block"><br> 
-  <img align="center" alt="fenriz-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  
   <img align="center" alt="fenriz-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="fenriz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="fenriz-C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">
-  <img align="center" alt="fenriz-R" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-plain.svg">
   <img align="right" alt="skeleton" src="https://github.com/yvngfenriz/yvngfenriz/blob/main/skeleton.gif"">
 </div>
 
